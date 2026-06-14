@@ -1,4 +1,4 @@
-## Hovercraft Project BW-1
+## Hovercraft Project WB-1
 
 ##Overview
 This project documents the design, thought process, skills learned, and construction of a hovercraft. The goal is too explore how airflow and fluid dnymaics interact to create hovercraft lift and thrust. Lift, skirt design, modularity, thrust effeciency, and real world engineering tradeoffs will be explored and discovered.
