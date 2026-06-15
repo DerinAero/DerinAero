@@ -1,10 +1,8 @@
 \-The summer after my freshman year of high school, I attended an engineering summer camp, where I was instructed to build a motorized vehicle. While originally wanting to build a small hovercraft, my materials were constrained, and there did not exist a proper or motor powerful enough to inflate a miniature hovercraft skirt at the time. Instead, I had settled for an airboat with 4 motors hooked in series to each other and parallel to the two battery packs to power the craft. I handmade propellers and used foam board and duct tape to waterproof the structure. All in all, the project took a few hours and produced noticeable results. The craft was tested for seaworthiness with up to 2kg loaded on it before it sank, and the propellers produced noticeable airflow. Unfortunately, a true water run test was never conducted, as at the time, I lacked a large enough body of water. 
-
-
-
-
-
-Top View				Front view						  
+<img width="4284" height="5712" alt="IMG_7659" src="https://github.com/user-attachments/assets/5839ec0c-693e-43c9-9bdf-a6877d59e106" />
+<img width="3984" height="3943" alt="IMG_7661 2" src="https://github.com/user-attachments/assets/16497e7e-7647-4566-bafe-d266125d5d48" />
+<img width="3947" height="4674" alt="IMG_7660 2" src="https://github.com/user-attachments/assets/3629c39e-5dce-4e9f-b625-76411216e6c9" />
+					  
 \-4 props \+ motors			\-Damaged structure \+ props and motors.   
 \-Damaged structure			\-Props have noticeable pitch for increased airflow.
 
